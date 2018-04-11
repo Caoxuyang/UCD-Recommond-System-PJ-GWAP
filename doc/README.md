@@ -7,15 +7,32 @@
 
 ![GWAP](https://github.com/Caoxuyang/UCD-Recommond-System-PJ-GWAP/blob/master/image/whatisGWAP.png)
 
+## We have Detailed Meeting Reports for five weeks 
 
-## Ideas ? just brainstorm all the ideas here.
-1. Eternal Puzzle ? Online game with multiplayers who can join the game at any time. Once this trial failed, open another one.
-2. 我还是用中文了，利用群众的力量和智慧来预测短期会发生的事情。
-3. 节约能源（电力之类的），答题，排行榜，正确答案，节约能源教学. 然后可以有类似20道选择题测试玩家对于节约用水，节约用电的知识水平（加点什么多少人已经完成了这项测试，facebook登陆还可以加多少好友已经完成了，你的得分排行是多少，好友pk，反馈你需要加强什么知识） ----- 积累的答案回答可以用来比如：某些家电很多人都不知道会特别费电，以后应该在用电标识上加更明显的提示和节约用电提醒？
-4.
-5.
-6.
-7.
+### Week One 
 
-## Group Meetings
-* Week 2- Form up our group and use github as version control within the group.
+- Brainstorm and gather all the ideas from three of us
+- Have a discussion on the ideas and choose the best one
+- Add necessary details to our GWAP project
+
+### Week Two
+
+This week’s main task is to decide on our project theme, the problems we intend to solve and the game forms we are going to take aiming to make it not only with a purpose but more interesting to play as well. Besides, set a plan for implementation and complete the project proposal.
+
+### Week Three
+
+This week’s main task is to decide on our project theme, the problems we intend to solve and the
+
+game forms we are going to take aiming to make it not only with a purpose but more interesting to play as well. Besides, set a plan for implementation and complete the project proposal.
+
+### Week Four
+
+* Discussed rolls for each of us for making demo and prototype of GWAP
+* Gather tool information and feedback we assigned last week. And Decide which tool to use.
+
+
+* Try to enrich our game with more fun parts.
+
+### Week Five
+
+This week’s goal is to finish the individual tasks on prototyping different parts of the project, assemble them into a planned game-playing order with a coordinated style and make the whole project function smoothly. Also, solve the problems raised during each member’s job together, and try to improve on the details as well as make the game more entertaining.
